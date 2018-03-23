@@ -1,0 +1,14 @@
+.form-design {
+    border: 1px solid #eee;
+    padding: 2em;
+}
+.head-signup {
+    padding: 2em;
+    font-size: 1.8em;
+    font-family: initial;
+}
+.labels {
+    text-align: left;
+    font-size: 1em;
+    color: #323232;
+}
